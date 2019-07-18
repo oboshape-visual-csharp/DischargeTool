@@ -1,0 +1,6 @@
+C:\_Current Projects\C#\Discharge Assistant TESTING\DischargeAssistant\ClassLibrary\ClassLibrary\bin\Release\ClassLibrary.dll
+C:\_Current Projects\C#\Discharge Assistant TESTING\DischargeAssistant\ClassLibrary\ClassLibrary\bin\Release\ClassLibrary.pdb
+C:\_Current Projects\C#\Discharge Assistant TESTING\DischargeAssistant\ClassLibrary\ClassLibrary\obj\Release\ClassLibrary.csprojAssemblyReference.cache
+C:\_Current Projects\C#\Discharge Assistant TESTING\DischargeAssistant\ClassLibrary\ClassLibrary\obj\Release\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\_Current Projects\C#\Discharge Assistant TESTING\DischargeAssistant\ClassLibrary\ClassLibrary\obj\Release\ClassLibrary.dll
+C:\_Current Projects\C#\Discharge Assistant TESTING\DischargeAssistant\ClassLibrary\ClassLibrary\obj\Release\ClassLibrary.pdb

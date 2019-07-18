@@ -1,0 +1,16 @@
+C:\_Current Projects\C#\Discharge Assistant TESTING\DischargeAssistant\DischargeAssistantUI\bin\Release\ClassLibrary.dll
+C:\_Current Projects\C#\Discharge Assistant TESTING\DischargeAssistant\DischargeAssistantUI\bin\Release\ClassLibrary.pdb
+C:\_Current Projects\C#\Discharge Assistant TESTING\DischargeAssistant\DischargeAssistantUI\obj\Release\DischargeAssistant.csprojAssemblyReference.cache
+C:\_Current Projects\C#\Discharge Assistant TESTING\DischargeAssistant\DischargeAssistantUI\obj\Release\DischargeAssistant.CellDataEditorForm.resources
+C:\_Current Projects\C#\Discharge Assistant TESTING\DischargeAssistant\DischargeAssistantUI\obj\Release\DischargeAssistant.LoadBankForm.resources
+C:\_Current Projects\C#\Discharge Assistant TESTING\DischargeAssistant\DischargeAssistantUI\obj\Release\DischargeAssistant.DischargeMainForm.resources
+C:\_Current Projects\C#\Discharge Assistant TESTING\DischargeAssistant\DischargeAssistantUI\obj\Release\DischargeAssistant.Properties.Resources.resources
+C:\_Current Projects\C#\Discharge Assistant TESTING\DischargeAssistant\DischargeAssistantUI\obj\Release\DischargeAssistant.StringBuilderForm.resources
+C:\_Current Projects\C#\Discharge Assistant TESTING\DischargeAssistant\DischargeAssistantUI\obj\Release\DischargeAssistant.csproj.GenerateResource.cache
+C:\_Current Projects\C#\Discharge Assistant TESTING\DischargeAssistant\DischargeAssistantUI\obj\Release\DischargeAssistant.csproj.CoreCompileInputs.cache
+C:\_Current Projects\C#\Discharge Assistant TESTING\DischargeAssistant\DischargeAssistantUI\obj\Release\DischargeAssistant.csproj.CopyComplete
+C:\_Current Projects\C#\Discharge Assistant TESTING\DischargeAssistant\DischargeAssistantUI\bin\Release\Discharge Assistant.exe.config
+C:\_Current Projects\C#\Discharge Assistant TESTING\DischargeAssistant\DischargeAssistantUI\bin\Release\Discharge Assistant.exe
+C:\_Current Projects\C#\Discharge Assistant TESTING\DischargeAssistant\DischargeAssistantUI\bin\Release\Discharge Assistant.pdb
+C:\_Current Projects\C#\Discharge Assistant TESTING\DischargeAssistant\DischargeAssistantUI\obj\Release\Discharge Assistant.exe
+C:\_Current Projects\C#\Discharge Assistant TESTING\DischargeAssistant\DischargeAssistantUI\obj\Release\Discharge Assistant.pdb
